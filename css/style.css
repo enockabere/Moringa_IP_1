@@ -29,7 +29,7 @@ body{
 }
 /* Style the navigation paragraph */
 .navigation p{
-  color:teal;
+  color:#2980B9;
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: 900;
@@ -109,10 +109,11 @@ body{
 
 /* Footer */
 .footer {
-  padding: 20px;
-  text-align: center;
-  background: #ddd;
-  margin-top: 20px;
+  padding: 7px;
+  text-align: left;
+  background: black;
+  margin-top: 2px;
+  color: white;
 }
 /* Responsive layout - when the screen is less than 400px wide, make the navigation items stack on top of each other instead of next to each other */
 @media screen and (max-width: 400px) {
