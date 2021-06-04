@@ -2,8 +2,14 @@
   box-sizing: border-box;
 }
 body{
-  font-family: fantasy,sans-serif,Arial,Helvetica;
+  font-family: font-family: "Noto Sans", sans-serif;
   background-color: #BED0F4;
+}
+h1 h2 h3 h5{
+  font-family: Oswald, sans-serif;
+}
+h5{
+  font-size:13px;
 }
 /* Style the top navigation bar */
 .navigation{
