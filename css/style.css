@@ -118,7 +118,7 @@ body{
   padding: 7px;
   text-align: left;
   background: black;
-  margin-top: 2px;
+  margin-top: 0px;
   color: white;
 }
 /* Responsive layout - when the screen is less than 400px wide, make the navigation items stack on top of each other instead of next to each other */
