@@ -101,6 +101,7 @@ h5{
 .fa {
   color:red;
 }
+
 /*facebook button*/
 .button{
   border: none;
@@ -112,7 +113,7 @@ h5{
   font-size: 16px;
   margin: 4px 2px;
   cursor: pointer;
-  background-color: #008CBA;
+  background-color: #D7B7BC;
 }
 .button:hover {
   background-color: #2980B9;
