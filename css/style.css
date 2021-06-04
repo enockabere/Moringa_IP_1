@@ -3,12 +3,11 @@
 }
 body{
   font-family: fantasy,sans-serif,Arial,Helvetica;
-  background-color: white;
+  background-color: #212F3D;
 }
 /* Style the top navigation bar */
 .navigation{
   background-color: #17202A;
-  overflow:hidden;
   width:100%;
   overflow: auto;
 }
@@ -44,6 +43,57 @@ body{
 /* Change color on active link */
 .active{
   background-color: #2980B9;
+}
+/* Create two unequal columns that floats next to each other */
+
+/* Left column */
+.leftcol {
+  float: left;
+  width: 65%;
+}
+
+/* Right column */
+.rightcol {
+  float: left;
+  width: 35%;
+  background-color: #f1f1f1;
+  padding-left: 20px;
+}
+
+/* my image */
+
+.new {
+  width: 100%;
+  height: 300px;
+}
+/*create thumbnail*/
+.right{
+  width: 100%;
+  height: 200px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+}
+/* Add a card effect for articles */
+.card {
+  background-color:#5D6D7E;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/* Footer */
+.footer {
+  padding: 20px;
+  text-align: center;
+  background: #ddd;
+  margin-top: 20px;
 }
 /* Responsive layout - when the screen is less than 400px wide, make the navigation items stack on top of each other instead of next to each other */
 @media screen and (max-width: 400px) {
