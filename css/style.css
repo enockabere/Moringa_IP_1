@@ -10,6 +10,8 @@ body{
   background-color: #17202A;
   width:100%;
   overflow: auto;
+  position: sticky;
+  top:0;
 }
 /* Style the navigation link */
 .navigation a{
