@@ -3,7 +3,7 @@
 }
 body{
   font-family: fantasy,sans-serif,Arial,Helvetica;
-  background-color: #212F3D;
+  background-color: #BED0F4;
 }
 /* Style the top navigation bar */
 .navigation{
@@ -31,7 +31,7 @@ body{
 }
 /* Style the navigation paragraph */
 .navigation p{
-  color:#2980B9;
+  color: #8BA6E9;
   text-decoration: none;
   letter-spacing: 3px;
   font-weight: 900;
@@ -39,7 +39,7 @@ body{
 }
 /* Change color on hover */
 .navigation a:hover{
-  background-color: #D7DBDD;
+  background-color: #F7E4E0;
   color:#2980B9;
 }
 /* Change color on active link */
@@ -51,6 +51,7 @@ body{
 /* Left column */
 .leftcol {
   float: left;
+  background-color:#BED0F4;
   width: 65%;
 }
 
@@ -58,7 +59,7 @@ body{
 .rightcol {
   float: left;
   width: 35%;
-  background-color: #212F3D;
+  background-color: #8BA6E9;
   padding-left: 20px;
 }
 
@@ -81,7 +82,7 @@ body{
   background: linear-gradient(145deg, rgb(195, 240, 200), rgb(80, 155, 245));
   padding: 20px;
   margin-top: 10px;
-  box-shadow: 10px 10px 5px green;
+  box-shadow: 10px 10px 5px #7E96C4;
 }
 
 /* Clear floats after the columns */
