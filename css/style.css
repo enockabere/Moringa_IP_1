@@ -87,9 +87,11 @@ body{
   display: table;
   clear: both;
 }
+/*icon styles*/
 .fa {
   color:red;
 }
+/*facebook button*/
 .button{
   border: none;
   color: white;
