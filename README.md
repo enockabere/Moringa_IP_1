@@ -13,7 +13,7 @@ To run the application in your terminal:
 ## Known Bugs
 None 
 ## Technologies Used
-HTMl,CSN
+HTML and CSS
 ## Support and contact details
 anock.abere@student.moringaschool.com
 ### License
