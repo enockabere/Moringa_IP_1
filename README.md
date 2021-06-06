@@ -1,5 +1,6 @@
-# {Personal portfolio website}
-#### {single page static website with about, navbar and projects sections}, {version Dated 4th June 2021}
+Personal portfolio Web Page
+It is a single page static website with about, navbar and projects sections.
+Dated 4th June 2021}
 #### By **{enock abere}**
 ## Description
 {This is a single page meant to display a compilation of materials that exemplifies your beliefs, skills, qualifications, education, training and experiences ...
